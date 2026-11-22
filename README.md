@@ -1,6 +1,6 @@
 ## Luis Felipe Miléo
 
-I build and maintain open source fiscal localizations for Odoo, mostly for Brazil and its neighbors. Partner at [KMEE](https://kmee.com.br/?utm_source=github&utm_medium=referral&utm_campaign=perfil-mileo), where we have implemented Odoo since 2012.
+I build and maintain open source fiscal localizations for Odoo, mostly for Brazil and its neighbors. CEO of [KMEE](https://kmee.com.br/?utm_source=github&utm_medium=referral&utm_campaign=perfil-mileo), where we have implemented Odoo since 2012.
 
 **Where most of my work goes**
 
